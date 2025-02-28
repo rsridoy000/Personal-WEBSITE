@@ -1,1 +1,1 @@
-[# Personal-WEBSITE](https://github.com/rsridoy000/Personal-WEBSITE)
+[# Personal-WEBSITE](https://rsridoy000.github.io/Personal-WEBSITE/)
